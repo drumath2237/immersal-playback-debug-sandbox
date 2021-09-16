@@ -2,6 +2,8 @@
 
 ## About
 
+![gif](./docs/demo.gif)
+
 ARCore Recording and Playback APIを使用して、
 事前に記録したデータからImmersalのデバッグを行う検証。
 
